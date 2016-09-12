@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Bubububububad and Boneyfied Color Schemes",
+		"GitGutter",
+		"LaTeXTools",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-chktex",
+		"SublimeLinter-contrib-bashate",
+		"SublimeLinter-contrib-clang",
+		"SublimeLinter-contrib-elixirc",
+		"SublimeLinter-contrib-write-good",
+		"SublimeLinter-cpplint",
+		"SublimeLinter-flake8",
+		"Sunrise Theme",
+		"Theme - Kronuz",
+		"Theme - Midnight",
+		"Theme - Soda",
+		"Theme - SoDaReloaded"
+	]
+}
