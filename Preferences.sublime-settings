@@ -1,8 +1,8 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
-	"font_face": "Roboto Mono",
-	"font_size": 11,
+	"font_face": "Roboto Mono for Powerline",
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
